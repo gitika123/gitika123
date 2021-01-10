@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Development
 - 📫 How to reach me: linkedin.com/in/gitikarath
 - ⚡ Fun fact:I love to travel.
--->
