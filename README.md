@@ -1,9 +1,10 @@
 ### Hi there,I am Gitika 👋.
-I am a Computer Science student and a Frontend Web Developer.
+<b>I am a Computer Science student and a Frontend Web Developer.</b>
 
 
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Cloud Computing.
