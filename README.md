@@ -29,7 +29,7 @@
 
 ### My Status:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gitika123)](https://github.com/anuraghazra/github-readme-stats)
+[![Gitika's github stats](https://github-readme-stats.vercel.app/api?username=gitika123)](https://github.com/gitika123/github-readme-stats)
 
 
 
