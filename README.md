@@ -29,12 +29,14 @@
 
 ### My Status:
 
-[![Gitika's github stats](https://github-readme-stats.vercel.app/api?username=gitika123)](https://github.com/gitika123/github-readme-stats)
+<img align="left" alt="Gitika's github stats" src="https://github-readme-stats.vercel.app/api?username=gitika123"/>
+
 <br>
 
 ### Top Programming Language used:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitika123)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Gitika's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitika123"/>
+
 
 
 
