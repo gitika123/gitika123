@@ -32,13 +32,13 @@
 
 ### My Status:
 
-<img float="left" alt="Gitika's github stats" src="https://github-readme-stats.vercel.app/api?username=gitika123"/>
+<img float="left" alt="Gitika's github stats" src="https://github-readme-stats.vercel.app/api?username=gitika123&show_icons=true&theme=merko"/>
 
 
 
 ### Top Programming Language used:
 
-<img float="left" alt="Gitika's top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitika123"/>
+<img float="left" alt="Gitika's top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitika123&theme=merko"/>
 
 
 
