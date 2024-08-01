@@ -29,9 +29,6 @@
 
 
 
-### My Status:
-
-<img float="left" alt="Gitika's github stats" src="https://github-readme-stats.vercel.app/api?username=gitika123&show_icons=true&theme=merko"/>
 
 
 
