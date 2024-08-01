@@ -1,5 +1,5 @@
 ### Hi there,I am Gitika 👋.
-<h2>I am a Computer Science Student and a Frontend Web Developer.</h2>
+<h2>I am an incoming Fall 2024 Graduate student at SJSU having 2 years of full-time experience in Capgemini.</h2>
 
 
 
