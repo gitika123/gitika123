@@ -1,13 +1,12 @@
 ### Hi there,I am Gitika 👋.
-<h2>I am an incoming Fall 2024 Graduate student at SJSU having 2 years of full-time experience in Capgemini.</h2>
+<h2>I am Fall 2024 Graduate student at SJSU having 2 years of full-time experience in Capgemini.</h2>
 
 
 
 
 
 
-- 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning Artificial Intelligence.
+- 🔭 I’m currently working on Machine Learning, Artificial Intelligence and Full Stack Development.
 - 📫 How to reach me: linkedin.com/in/gitikarath
 - ⚡ Fun fact:I love to travel and dance.
 
@@ -20,6 +19,7 @@
 
 
 ### Languages and Tools:
+<img align="left" alt="Js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="Js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="Js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="Js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
