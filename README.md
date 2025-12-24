@@ -100,33 +100,14 @@
 
 ---
 
-## 💼 Professional Experience
-
-### Software Engineering Intern @ Tuskira.ai
-*Jun 2025 - Aug 2025*
-- Developed scalable GraphQL APIs with ClickHouse integration
-- Designed reusable YAML and Golang-based SQL templates
-- Architected cloud-native data pipelines processing millions of security events
-
-### Software Engineer @ Capgemini
-*Aug 2022 - Jul 2024*
-- Led end-to-end development for high-volume order and invoice platforms
-- Integrated business applications and APIs (Salesforce modules)
-- Engineered CI/CD pipelines achieving 30% reduction in deployment bugs
-
----
-
 ## 📚 Featured Projects
 
 ### 🤖 Machine Learning & AI
-- **[Triage App using FastAPI & LLaMA-3](https://github.com/gitika123)** - LLM-powered defect triage app automating ticket classification, reducing manual triage by 60%
-- **[Spartan AI Hub](https://github.com/gitika123)** - Unified AI resource hub for SJSU using GPT-4o mini for real-time Q&A
 - **[Palmprint Recognition System](https://github.com/gitika123/Palmprint-Recognition-System)** - Biometric authentication using ML
 - **[AI-Based COVID-19 Chatbot](https://github.com/gitika123/AI-Based-COVID-19-Chatbot)** - Intelligent chatbot for COVID information
+- **[Spartan AI Hub](https://github.com/gitika123)** - Unified AI resource hub for SJSU using GPT-4o mini for real-time Q&A
 
 ### 🌐 Full-Stack Development
-- **[Security Analytics Platform](https://github.com/gitika123)** - Backend analytics for real-time dashboards (Golang, ClickHouse) with 2× faster vulnerability triage
-- **[Distributed StackOverflow Clone](https://github.com/gitika123)** - Scalable Q&A platform (MERN, Kafka, Docker) supporting 1000+ concurrent users
 - **[Payment Gateway Integration](https://github.com/gitika123/Payment-gateway-integration)** - Secure payment processing system
 - **[InboxAngel](https://github.com/gitika123/InboxAngel)** - Email management application
 
@@ -163,18 +144,6 @@
 ## 💬 Quote
 
 > "The only way to do great work is to love what you do." - Steve Jobs
-
----
-
-<div align="center">
-
-### ⚡️ Daily Coding Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitika123&theme=radical&hide_border=true)
-
-### 📊 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitika123&theme=redical&hide_border=true&area=true)
 
 ---
 
