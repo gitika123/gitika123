@@ -13,7 +13,6 @@
 
 - 🎓 **M.S. in Computer Science** at San Jose State University (SJSU) - *Aug 2024 - May 2026*
 - 💼 **2+ years** of full-time experience as Software Engineer at Capgemini
-- 🔥 Currently preparing for **technical interviews** (Blind 75 + System Design)
 - 🌱 Passionate about **Machine Learning**, **AI**, **Full-Stack Development**, and **Cloud Computing**
 - 🔬 Published researcher - IEEE ICIMIA 2023 on Human Emotion Detection
 - 💡 Always learning and building scalable distributed systems
@@ -68,29 +67,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitika123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitika123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitika123&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
----
-
 ## 🎯 Currently Working On
 
-- 🔥 **Interview Preparation** - Solving Blind 75 LeetCode problems and studying System Design
 - 🤖 **Machine Learning & AI** - LLM fine-tuning, Generative AI, Vision-Language Models
 - 🌐 **Full-Stack Development** - Building scalable web applications with React, Next.js, and FastAPI
 - ☁️ **Cloud Computing** - Deploying applications on AWS with Docker and Kubernetes
 - 📊 **Big Data** - Working with Hadoop, Spark, and ClickHouse for analytics
-
----
-
-## 📈 LeetCode Progress
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/gitika123?theme=dark&font=Inter&ext=activity)
 
 ---
 
@@ -110,9 +92,6 @@
 ### 🌐 Full-Stack Development
 - **[Payment Gateway Integration](https://github.com/gitika123/Payment-gateway-integration)** - Secure payment processing system
 - **[InboxAngel](https://github.com/gitika123/InboxAngel)** - Email management application
-
-### 🎯 Interview Preparation
-- **[Interview Prep](https://github.com/gitika123/Interview_Prep)** - 40-day structured plan for technical interviews with Blind 75 and System Design
 
 ---
 
